@@ -4,7 +4,8 @@
 
 A hypercube, also known as an n-dimensional cube or an n-cube, is a geometric shape that generalizes the concept of a square (2-dimensional cube) and a cube (3-dimensional cube) to higher dimensions. It represents a set of points in n-dimensional space, where each point has n coordinates.
 
-![Alt text]([image_path](https://ca.images.search.yahoo.com/search/images;_ylt=AwrFeAnXkR1mFlkjY_btFAx.;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDMjExNDcyMTAwNQRfcgMyBGZyA21jYWZlZQRmcjIDcDpzLHY6aSxtOnNiLXRvcARncHJpZANVTWhIdVFoUlR1ZTZqeVNYYTJsZnhBBG5fcnNsdAMwBG5fc3VnZwMwBG9yaWdpbgNjYS5pbWFnZXMuc2VhcmNoLnlhaG9vLmNvbQRwb3MDMARwcXN0cgMEcHFzdHJsAzAEcXN0cmwDMjIEcXVlcnkDM2QlMjBoeXBlcmN1YmUlMjBpbWFnZSUyMGdpZgR0X3N0bXADMTcxMzIxMzkyMQ--?p=3d+hypercube+image+gif&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E211CA885G0#id=3&iurl=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F51d686669b5d9a801714366cd61807be%2Ftenor.gif%3Fitemid%3D9052304&action=click))
+![Hypercube GIF](https://media1.tenor.com/images/51d686669b5d9a801714366cd61807be/tenor.gif?itemid=9052304)
+
 
 ## How does it work?
 
