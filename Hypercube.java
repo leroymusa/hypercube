@@ -1,11 +1,3 @@
-/**********************************************************
- * EECS2101A: Fundamentals of Data Structures,  Fall 2023
- * Assignment 2, Problem 2: Hypercube.java
- * Student Name: Leroy-David Musa
- * Student EECS account: leroy7
- * Student ID number: 219198761
- **********************************************************/
-package A2;
 import java.util.ArrayDeque;
 import java.util.Scanner;
 
